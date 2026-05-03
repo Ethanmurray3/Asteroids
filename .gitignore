@@ -11,3 +11,4 @@ wheels/
 
 #my ignores
 game_state.jsonl
+game_events.jsonl
